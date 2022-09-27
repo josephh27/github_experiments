@@ -8,3 +8,4 @@ print(phrase.replace("fd","ae"))
 
 print("HHAHAHAHA")
 print("truthy and falsy and shift = pop and unshift = push")
+print("what the fuck")
