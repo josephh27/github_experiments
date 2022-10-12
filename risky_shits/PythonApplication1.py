@@ -8,6 +8,7 @@ print(phrase.replace("fd","ae"))
 
 print("HHAHAHAHA")
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("truthy and falsy and shift = pop and unshift = push")
 <<<<<<< HEAD
 print("what the fuck")
@@ -19,3 +20,5 @@ print("what the fuck")
 =======
 print("what the fuck")
 >>>>>>> parent of 5de38c0 (Back)
+=======
+>>>>>>> parent of 93ed3eb (Another okay)
