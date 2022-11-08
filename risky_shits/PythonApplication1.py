@@ -4,8 +4,7 @@ phrase = "fdsfdsfdsfdsfsdfsdfsd"
 print(phrase)
 print(phrase.replace("fd","ae"))
 
-
-
+#what the
 print("HHAHAHAHA")
 <<<<<<< HEAD
 <<<<<<< HEAD
