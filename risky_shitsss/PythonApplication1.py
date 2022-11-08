@@ -8,7 +8,7 @@ print(phrase.replace("fd","ae"))
 <<<<<<< HEAD
 >>>>>>> e9595e4aa6813c0350fd29208db4b99d660ad53a
 
-#what the
+#what the fuck
 print("HHAHAHAHA")
 <<<<<<< HEAD
 <<<<<<< HEAD
